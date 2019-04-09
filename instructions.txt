@@ -6,3 +6,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id interdum 
 Please refer to the website for more instructions.
 
 Eric-Purple made some changes here!
+
+Chang made in sample-branch
